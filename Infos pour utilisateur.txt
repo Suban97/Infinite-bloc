@@ -1,0 +1,15 @@
+
+Lorsque vous exécuterez l'application, vous devrez entrer dans le dossier dist_ puis exécuter le fichier
+qui se nommera "Infinite Bloc" .
+
+Dans le menu pour selectionner les options "Jouer", "Option" ou "Quitter", vous pourrez utiliser les touches flécher;
+haut, et bas puis Entrer pour exécuter.
+
+PS: je n'ai pas encore developper l'issu d'option donc elle ne sera pour le moment d'aucune utilité.
+
+
+Et pour jouer au jeux vous ne pourrez jouer qu'avec les touches fléchées droite et gauche.
+
+PS: le jeux subira bien sûr des MAJ dans un avenir très proche, je dirais qu'elle en est qu'à sa "Beta" ^^'.
+
+Amusez vous bien ^^ .
